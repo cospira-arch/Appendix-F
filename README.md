@@ -91,7 +91,7 @@ Appendix F.9 is a **dedicated technical annex for BSI**, including:
 - Policy simulation usage guidelines  
 
 👉 **See:**  
-`[appendices/F/F9-BSI/README.md](https://github.com/cospira-arch/Appendix-F.9)`
+[appendices/F/F9-BSI/README.md](https://github.com/cospira-arch/Appendix-F.9)
 
 BSI is designed to function as:
 - A comparative policy evaluation tool  
@@ -132,7 +132,7 @@ Sections may be **extracted, adapted, or localized** without requiring full adop
 
 ## Navigation
 
-- 🔗 [Appendix Hub]([../README.md](https://github.com/cospira-arch/Appendix-Compendium))
+- 🔗 [Appendix Hub](https://github.com/cospira-arch/Appendix-Compendium)
 - 🔗 [Appendix F.9 – Boundary Stability Index (BSI)]([./F9-BSI/README.md](https://github.com/cospira-arch/Appendix-F.9))
 - 🔗 [Appendix G – National Implementation Blueprint]([../G/README.md](https://github.com/cospira-arch/Appendix-G))
 - 🔗 [Boundary OS Paper]([../../papers/boundary-os.md](https://github.com/cospira-arch/Boundary-OS))
