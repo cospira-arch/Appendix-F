@@ -133,10 +133,10 @@ Sections may be **extracted, adapted, or localized** without requiring full adop
 ## Navigation
 
 - 🔗 [Appendix Hub](https://github.com/cospira-arch/Appendix-Compendium)
-- 🔗 [Appendix F.9 – Boundary Stability Index (BSI)]([./F9-BSI/README.md](https://github.com/cospira-arch/Appendix-F.9))
-- 🔗 [Appendix G – National Implementation Blueprint]([../G/README.md](https://github.com/cospira-arch/Appendix-G))
-- 🔗 [Boundary OS Paper]([../../papers/boundary-os.md](https://github.com/cospira-arch/Boundary-OS))
-- 🔗 [BSI Paper]([../../papers/bsi.md](https://github.com/cospira-arch/BSI))
+- 🔗 [Appendix F.9 – Boundary Stability Index (BSI)](https://github.com/cospira-arch/Appendix-F.9)
+- 🔗 [Appendix G – National Implementation Blueprint](https://github.com/cospira-arch/Appendix-G)
+- 🔗 [Boundary OS Paper](https://github.com/cospira-arch/Boundary-OS)
+- 🔗 [BSI Paper](https://github.com/cospira-arch/BSI)
 
 ---
 
