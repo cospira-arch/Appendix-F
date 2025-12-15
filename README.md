@@ -91,7 +91,7 @@ Appendix F.9 is a **dedicated technical annex for BSI**, including:
 - Policy simulation usage guidelines  
 
 👉 **See:**  
-`appendices/F/F9-BSI/README.md`
+`[appendices/F/F9-BSI/README.md](https://github.com/cospira-arch/Appendix-F.9)`
 
 BSI is designed to function as:
 - A comparative policy evaluation tool  
